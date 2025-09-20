@@ -1,0 +1,14 @@
+D:\dot net\8Queens\bin\Debug\net8.0\8Queens.exe
+D:\dot net\8Queens\bin\Debug\net8.0\8Queens.deps.json
+D:\dot net\8Queens\bin\Debug\net8.0\8Queens.runtimeconfig.json
+D:\dot net\8Queens\bin\Debug\net8.0\8Queens.dll
+D:\dot net\8Queens\bin\Debug\net8.0\8Queens.pdb
+D:\dot net\8Queens\obj\Debug\net8.0\8Queens.GeneratedMSBuildEditorConfig.editorconfig
+D:\dot net\8Queens\obj\Debug\net8.0\8Queens.AssemblyInfoInputs.cache
+D:\dot net\8Queens\obj\Debug\net8.0\8Queens.AssemblyInfo.cs
+D:\dot net\8Queens\obj\Debug\net8.0\8Queens.csproj.CoreCompileInputs.cache
+D:\dot net\8Queens\obj\Debug\net8.0\8Queens.dll
+D:\dot net\8Queens\obj\Debug\net8.0\refint\8Queens.dll
+D:\dot net\8Queens\obj\Debug\net8.0\8Queens.pdb
+D:\dot net\8Queens\obj\Debug\net8.0\8Queens.genruntimeconfig.cache
+D:\dot net\8Queens\obj\Debug\net8.0\ref\8Queens.dll
